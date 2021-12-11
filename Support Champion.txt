@@ -3,11 +3,9 @@ Karthus
 KogMaw
 Vayne
 Zed
-Sion
 Orianna
 
 HealerAIO Support Champion
-Anivia
 Ashe
 Caitlyn
 Corki
