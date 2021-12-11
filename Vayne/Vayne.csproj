@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Release</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProjectGuid>{02C1D0CD-CFC0-4DFF-9799-25BA52BF9CCE}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <NoStandardLibraries>false</NoStandardLibraries>
+    <AssemblyName>Vayne</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <PreBuildEvent />
+    <PostBuildEvent />
+    <CscToolPath>C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\MSBuild\15.0\Bin\Roslyn</CscToolPath>
+    <OutputPath>bin\Release</OutputPath>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Release</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <RootNamespace>Vayne</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EnsoulSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=a79d4397685f9df0">
+      <HintPath>C:\Users\FunnySlayer\Desktop\EnsoulSharp\Reference\EnsoulSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="EnsoulSharp.SDK, Version=1.0.0.0, Culture=neutral, PublicKeyToken=bcecb37b3b5656dd">
+      <HintPath>C:\Users\FunnySlayer\Desktop\EnsoulSharp\Reference\EnsoulSharp.SDK.dll</HintPath>
+    </Reference>
+    <Reference Include="log4net, Version=2.0.12.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a">
+      <HintPath>C:\Users\FunnySlayer\Desktop\EnsoulSharp\Reference\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed">
+      <HintPath>C:\Users\FunnySlayer\Desktop\EnsoulSharp\Reference\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="SharpDX, Version=4.2.0.0, Culture=neutral, PublicKeyToken=b4dcf0f35e5521f1">
+      <HintPath>C:\Users\FunnySlayer\Desktop\EnsoulSharp\Reference\SharpDX.dll</HintPath>
+    </Reference>
+    <Reference Include="SharpDX.Direct3D9, Version=4.2.0.0, Culture=neutral, PublicKeyToken=b4dcf0f35e5521f1">
+      <HintPath>C:\Users\FunnySlayer\Desktop\EnsoulSharp\Reference\SharpDX.Direct3D9.dll</HintPath>
+    </Reference>
+    <Reference Include="SharpDX.Mathematics, Version=4.2.0.0, Culture=neutral, PublicKeyToken=b4dcf0f35e5521f1">
+      <HintPath>C:\Users\FunnySlayer\Desktop\EnsoulSharp\Reference\SharpDX.Mathematics.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http">
+      <HintPath>C:\Users\FunnySlayer\Desktop\EnsoulSharp\Reference\System.Net.Http.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="MyInitializer\Logic.cs" />
+    <Compile Include="MyInitializer\Menu.cs" />
+    <Compile Include="MyInitializer\Notifications.cs" />
+    <Compile Include="MyInitializer\PRADALoader.cs" />
+    <Compile Include="MyInitializer\Spells.cs" />
+    <Compile Include="MyLogic\E\AntiAssasins.cs" />
+    <Compile Include="MyLogic\E\Interrupter.cs" />
+    <Compile Include="MyLogic\E\Jungle.cs" />
+    <Compile Include="MyLogic\E\OnCreate.cs" />
+    <Compile Include="MyLogic\E\OnDelete.cs" />
+    <Compile Include="MyLogic\E\OnGapcloser.cs" />
+    <Compile Include="MyLogic\E\OnUpdate.cs" />
+    <Compile Include="MyLogic\Others\OnDraw.cs" />
+    <Compile Include="MyLogic\Others\OnProcessSpellcast.cs" />
+    <Compile Include="MyLogic\Others\OnUpdate.cs" />
+    <Compile Include="MyLogic\Others\SkinHack.cs" />
+    <Compile Include="MyLogic\Q\AfterAttack.cs" />
+    <Compile Include="MyLogic\Q\BeforeAttack.cs" />
+    <Compile Include="MyLogic\Q\OnAttack.cs" />
+    <Compile Include="MyLogic\Q\OnCastSpell.cs" />
+    <Compile Include="MyLogic\Q\OnGapcloser.cs" />
+    <Compile Include="MyLogic\Q\OnProcessSpellCast.cs" />
+    <Compile Include="MyLogic\Q\OnUpdate.cs" />
+    <Compile Include="MyLogic\Q\Tumble.cs" />
+    <Compile Include="MyLogic\R\BeforeAttack.cs" />
+    <Compile Include="MyLogic\R\OnCastSpell.cs" />
+    <Compile Include="MyUtils\MyCache.cs" />
+    <Compile Include="MyUtils\MyExtensions.cs" />
+    <Compile Include="MyUtils\MyGeometry.cs" />
+    <Compile Include="MyUtils\MyLists.cs" />
+    <Compile Include="MyUtils\MySpellDb.cs" />
+    <Compile Include="MyUtils\MyWizard.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSHARP.Targets" />
+  <ProjectExtensions>
+    <VisualStudio AllowExistingFolder="true" />
+  </ProjectExtensions>
+</Project>
