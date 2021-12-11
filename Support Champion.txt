@@ -5,3 +5,20 @@ Vayne
 Zed
 Sion
 Orianna
+
+HealerAIO Support Champion
+Anivia
+Ashe
+Caitlyn
+Corki
+Ezreal
+Graves
+Jayce
+Jinx
+Kalista
+Lucian
+Sivir
+Vayne
+viego
+Xerath
+
