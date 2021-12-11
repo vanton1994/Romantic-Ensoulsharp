@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Sylvester\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Sylvester\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_PRADA Vayne Reborn.576970965.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Sylvester\Documents\GitHub\OtherAssembly\Vayne" t="IncludeRecursive">
+      <e p="App.config" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="MyInitializer" t="Include">
+        <e p="Logic.cs" t="Include" />
+        <e p="Menu.cs" t="Include" />
+        <e p="Notifications.cs" t="Include" />
+        <e p="PRADALoader.cs" t="Include" />
+        <e p="Spells.cs" t="Include" />
+      </e>
+      <e p="MyLogic" t="Include">
+        <e p="E" t="Include">
+          <e p="AntiAssasins.cs" t="Include" />
+          <e p="Interrupter.cs" t="Include" />
+          <e p="Jungle.cs" t="Include" />
+          <e p="OnCreate.cs" t="Include" />
+          <e p="OnDelete.cs" t="Include" />
+          <e p="OnGapcloser.cs" t="Include" />
+          <e p="OnUpdate.cs" t="Include" />
+        </e>
+        <e p="Others" t="Include">
+          <e p="OnDraw.cs" t="Include" />
+          <e p="OnProcessSpellcast.cs" t="Include" />
+          <e p="OnUpdate.cs" t="Include" />
+          <e p="SkinHack.cs" t="Include" />
+        </e>
+        <e p="Q" t="Include">
+          <e p="AfterAttack.cs" t="Include" />
+          <e p="BeforeAttack.cs" t="Include" />
+          <e p="OnAttack.cs" t="Include" />
+          <e p="OnCastSpell.cs" t="Include" />
+          <e p="OnGapcloser.cs" t="Include" />
+          <e p="OnProcessSpellcast.cs" t="Include" />
+          <e p="OnUpdate.cs" t="Include" />
+          <e p="Tumble.cs" t="Include" />
+        </e>
+        <e p="R" t="Include">
+          <e p="BeforeAttack.cs" t="Include" />
+          <e p="OnCastSpell.cs" t="Include" />
+        </e>
+      </e>
+      <e p="MyUtils" t="Include">
+        <e p="MyCache.cs" t="Include" />
+        <e p="MyExtensions.cs" t="Include" />
+        <e p="MyGeometry.cs" t="Include" />
+        <e p="MyLists.cs" t="Include" />
+        <e p="MySpellDb.cs" t="Include" />
+        <e p="MyWizard.cs" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="PRADA Vayne Reborn.sln" t="IncludeFlat" />
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="AssemblyInfo.cs" t="Include" />
+      </e>
+      <e p="Vayne.csproj" t="IncludeRecursive" />
+    </e>
+  </component>
+</project>
