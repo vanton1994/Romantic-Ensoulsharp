@@ -1,0 +1,16 @@
+C:\Users\ACER\Desktop\Ryze\obj\Debug\Ryze.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\Ryze\obj\Debug\Ryze.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER\Desktop\Ryze\obj\Debug\Ryze.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Ryze\bin\Release\simple.exe
+C:\Users\ACER\Desktop\Ryze\bin\Release\simple.pdb
+C:\Users\ACER\Desktop\Ryze\bin\Release\EnsoulSharp.dll
+C:\Users\ACER\Desktop\Ryze\bin\Release\EnsoulSharp.SDK.dll
+C:\Users\ACER\Desktop\Ryze\bin\Release\log4net.dll
+C:\Users\ACER\Desktop\Ryze\bin\Release\Newtonsoft.Json.dll
+C:\Users\ACER\Desktop\Ryze\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\ACER\Desktop\Ryze\bin\Release\SharpDX.dll
+C:\Users\ACER\Desktop\Ryze\bin\Release\SharpDX.Mathematics.dll
+C:\Users\ACER\Desktop\Ryze\bin\Release\EnsoulSharp.xml
+C:\Users\ACER\Desktop\Ryze\obj\Debug\Ryze.csproj.CopyComplete
+C:\Users\ACER\Desktop\Ryze\obj\Debug\simple.exe
+C:\Users\ACER\Desktop\Ryze\obj\Debug\simple.pdb
