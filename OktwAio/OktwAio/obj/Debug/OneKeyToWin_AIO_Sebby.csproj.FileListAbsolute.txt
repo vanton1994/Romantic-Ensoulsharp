@@ -1,0 +1,17 @@
+C:\Users\ACER\Desktop\OktwAio\bin\Release\OneKeyToWin_AIO_Sebby.exe.config
+C:\Users\ACER\Desktop\OktwAio\bin\Release\OneKeyToWin_AIO_Sebby.exe
+C:\Users\ACER\Desktop\OktwAio\bin\Release\OneKeyToWin_AIO_Sebby.pdb
+C:\Users\ACER\Desktop\OktwAio\bin\Release\EnsoulSharp.dll
+C:\Users\ACER\Desktop\OktwAio\bin\Release\EnsoulSharp.SDK.dll
+C:\Users\ACER\Desktop\OktwAio\bin\Release\SharpDX.Mathematics.dll
+C:\Users\ACER\Desktop\OktwAio\bin\Release\log4net.dll
+C:\Users\ACER\Desktop\OktwAio\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\ACER\Desktop\OktwAio\bin\Release\SharpDX.dll
+C:\Users\ACER\Desktop\OktwAio\bin\Release\Newtonsoft.Json.dll
+C:\Users\ACER\Desktop\OktwAio\bin\Release\EnsoulSharp.xml
+C:\Users\ACER\Desktop\OktwAio\obj\Debug\OneKeyToWin_AIO_Sebby.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\OktwAio\obj\Debug\OneKeyToWin_AIO_Sebby.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER\Desktop\OktwAio\obj\Debug\OneKeyToWin_AIO_Sebby.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\OktwAio\obj\Debug\OneKeyToWin_AIO_Sebby.csproj.CopyComplete
+C:\Users\ACER\Desktop\OktwAio\obj\Debug\OneKeyToWin_AIO_Sebby.exe
+C:\Users\ACER\Desktop\OktwAio\obj\Debug\OneKeyToWin_AIO_Sebby.pdb
