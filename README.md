@@ -1,6 +1,6 @@
 # Romantic-Ensoulsharp
 discord : Healer#9841
-OKTW2 Suport Champion
+OKTW2 Suport Champion:
 Ashe
 Caitlyn
 Corki
@@ -13,3 +13,17 @@ Sivir
 Vayne
 Viego
 Xerath
+
+DogAIO Support Champion:
+Soraka
+Thresh
+Brand
+Lulu
+Leona
+Lissandra
+Blizcrank
+Zilean
+Rumble
+Nidalee
+Lux
+Ahri
