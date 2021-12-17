@@ -13,7 +13,6 @@ Lucian
 Sivir
 Vayne
 Viego
-Xerath
 
 DogAIO Support Champion:
 Soraka
