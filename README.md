@@ -1,5 +1,5 @@
 # Romantic-Ensoulsharp
-discord : Healer#9841
+Discord : Healer#9841
 
 OKTW2 Suport Champion:
 Ashe
